@@ -8,7 +8,7 @@
    - Navigate to where you downloaded the connect-four folder. 
 
 2. **Run the game:**
-   - Locate the "Connect Four.exe" file.
+   - Open the connect-four folder and locate the "Connect Four.exe" file.
    - Open "Connect Four.exe" and the game should open and start running in full screen.
 
 
