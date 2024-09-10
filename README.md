@@ -1,13 +1,13 @@
 # How to Open the Web App on Your PC
 
 1. **Download all relevant files:**
-   - In GitHub, download the infoboard repository.
+   - In GitHub, download the csv-reader repository.
 
 2. **Navigate to the Project Directory:**
-   - Open your terminal or command prompt.
-   - Navigate to where you downloaded the infoboard folder. Execute:
+   - Open command prompt (PowerShell restricts running scripts for security reasons).
+   - Navigate to where you downloaded the csv-reader folder. Execute:
      ```
-     cd /path/to/builds/infoboard
+     cd /path/to/builds/csv-reader
      ```
 
 3. **Install the `serve` Package:**
@@ -17,7 +17,7 @@
      ```
 
 4. **Start the Server:**
-   - Once you're in the project directory (e.g., `.../infoboard`), start the server by running:
+   - Once you're in the project directory (e.g., `.../csv-reader`), start the server by running:
      ```
      serve -s .
      ```
